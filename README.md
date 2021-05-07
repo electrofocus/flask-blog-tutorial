@@ -1,4 +1,4 @@
-# Flask blog tutorial
+# Flask blog
 
 ## Install
 
