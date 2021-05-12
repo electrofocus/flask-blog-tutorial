@@ -26,6 +26,13 @@ For Windows PowerShell, use `$env:` instead of `export`:
 $env:FLASK_APP = "flaskr"
 $env:FLASK_ENV = "development"
 ```
+
+## Initialize database
+
+```
+flask init-db
+```
+
 ## Run
 
 ```
